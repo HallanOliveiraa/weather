@@ -18,6 +18,12 @@
 
 <br><br>
 <h2></h2>
+<br>
+<img src="https://raw.githubusercontent.com/HallanOliveiraa/weather/refs/heads/main/docs/weather-forecast-images.png">
+<br>
+<h2></h2>
+<br>
+<img align="center" width="800" heght="500" src="https://raw.githubusercontent.com/HallanOliveiraa/weather/refs/heads/main/docs/Screencastfrom2024-12-1218-34-38-ezgif.com-video-to-gif-converter.gif">
 
 
 
