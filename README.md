@@ -1,7 +1,11 @@
 <h2>🌤 Projeto Previsão do Tempo - Weather Forecast 💡</h2>
 <br>
 
-- [x] Projeto previsão do tempo personalizado, onde o usuaŕio ao inserir as informações de cidades e países automoaticamente informadas as condições climáticas em tempo real, sendo esse realizado pessoalmente e adquirindo novos conhecimentos sobre  Application Programming Interface - APIs. 🛰️
+- [x] Projeto previsão do tempo personalizado,o qual após a inserção pelo usuaŕio de cidades e países, automoaticamente são informadas as condições climáticas em tempo real.
+
+<br>
+
+- [x] Realizado pessoalmente e adquirindo novos conhecimentos sobre  Application Programming Interface - APIs. 🛰️
 
 <h2></h2>
 
