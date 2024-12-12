@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="left" width="48" height="48" src="https://img.icons8.com/arcade/100/html-5.png" alt="html-5"/><img align="left" width="48" height="48" src="https://img.icons8.com/fluency/100/css3.png" alt="css3"/>
+<img align="left" width="48" height="48" src="https://img.icons8.com/arcade/100/html-5.png" alt="html-5"/><img align="left" width="46" height="46" src="https://img.icons8.com/fluency/100/css3.png" alt="css3"/>
 <img align="left" width="50" height="50" src="https://img.icons8.com/arcade/100/javascript.png" alt="javascript"/><img align="left" width="50" height="50" src="https://img.icons8.com/glyph-neue/100/FFFFFF/api-settings.png" alt="api-settings"/>
 
 <br><br>
