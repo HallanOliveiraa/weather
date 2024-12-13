@@ -18,9 +18,9 @@
 
 <br>
 <h2></h2>
-
-## 📲 Versões disponíveis/available versions
 <br>
+## 📲 Versões disponíveis / available versions
+<h2></h2>
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/HallanOliveiraa/weather/refs/heads/main/docs/weather-forecast-images.png">
